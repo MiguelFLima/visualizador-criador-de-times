@@ -1,1 +1,5 @@
-Projeto feito em Next.js com intuito de cadastrar pessoas em um determinado setor da área de programação.
+Project made in Next.js with the intention of registering people in a certain sector of the programming area.
+
+* CSS
+* Next.js
+
